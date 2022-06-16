@@ -41,6 +41,24 @@ body{
     gap: 100px;
 }
 
+.button-1-a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.button-2-a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+
 .button-1{
     margin-top: 100px;
     width: 90%;
